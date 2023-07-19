@@ -17,7 +17,7 @@ Welcome to the Coffee Dev Newsletter GitHub organization! We bring you the lates
 - 📸 Instagram: [@coffeedevme](https://www.instagram.com/coffeedevme/)
 - 📧 Email: [Hello@coffeedev.me](mailto:Hello@coffeedev.me)
 
-Stay updated with our newsletter by [subscribing](https://coffeedev.me/Subscribe) to receive regular updates on new projects, coding tutorials, and industry trends.
+Stay updated with our newsletter by [subscribing](https://coffeedev.me/) to receive regular updates on new projects, coding tutorials, and industry trends.
 
 Feel free to reach out to us if you have any questions or suggestions. We love hearing from our community of developers and tech enthusiasts!
 
